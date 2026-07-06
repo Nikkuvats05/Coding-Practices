@@ -41,12 +41,5 @@ class Solution {
         }
         ans.push_back(last);
         return ans;
-        /*
-       vector<int>p;
-       int a=-1;
-        p.push_back(a);
-        p.push_back(a);
-        return p;
-        */
     }
 };
