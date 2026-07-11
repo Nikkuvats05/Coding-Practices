@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
