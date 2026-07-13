@@ -1,19 +1,32 @@
 class Solution {
 public:
-void bsort(vector<int>& nums, int n){
-    if(n==0 || n==1)
-    return ;
-    for(int i=0; i<nums.size()-1; i++){
-        if(nums[i]>nums[i+1]){
-            swap(nums[i],nums[i+1]);
-        }
-    }
-        return bsort(nums, n-1);
-    
-}
     void sortColors(vector<int>& nums) {
-        
-        bsort(nums, nums.size());
-        
+        int count1=0;
+        int count2=0;
+        int count0=0;
+        int j=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i]==1){
+                count1++;
+            }
+            else if(nums[i]==2){
+                count2++;
+            }
+            else{
+                count0++;
+            }
+        }
+        for(int i=0; i<count0; i++){
+            nums[j]=0;
+            j++;
+        }
+        for(int i=0; i<count1; i++){
+            nums[j]=1;
+            j++;
+     }
+     for(int i=0; i<count2; i++){
+            nums[j]=2;
+            j++;
+     }
     }
 };
