@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0283-move-zeroes) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
