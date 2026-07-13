@@ -4,12 +4,11 @@ public:
         if(nums.size()==1){
             return nums[0];
         }
-        sort(nums.begin(),nums.end());
-        for(int i=0; i<nums.size()-1; i=i+2){
-            if(nums[i]!=nums[i+1]){
-                return nums[i];
+      int ans=0;
+        for(int i=0; i<nums.size(); i=i+1){
+            ans=ans^nums[i];
             }
-        }
-        return nums[nums.size()-1];
+        
+        return ans;
     }
 };
