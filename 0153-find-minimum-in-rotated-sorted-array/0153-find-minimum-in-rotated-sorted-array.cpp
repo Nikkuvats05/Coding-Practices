@@ -2,24 +2,17 @@ class Solution {
 public:
    
     int findMin(vector<int>& nums) {
-        int s = 0;
-        int e = nums.size() - 1;
-        
-        while (s < e) {
-            int mid = s + (e - s) / 2;
-            
-            // Agar mid element last element se bada hai, 
-            // iska matlab minimum element right side mein hai
-            if (nums[mid] > nums[e]) {
-                s = mid + 1;
-            } 
-            // Agar chhota ya barabar hai, toh minimum left side mein hai (ya khud mid hai)
-            else {
-                e = mid;
+       if(nums.size()==1){
+            return nums[0];
+        }
+        int s=0;
+        int e=nums.size()-1;
+        int min=nums[0];
+        for(int i=1; i<nums.size(); i++){
+            if(nums[i]<min){
+                min=nums[i];
             }
         }
-        
-        // Loop khatam hone par s aur e dono minimum element par rukenge
-        return nums[s];
+        return min;
     }
 };
