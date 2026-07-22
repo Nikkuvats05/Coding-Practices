@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0560-subarray-sum-equals-k) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
