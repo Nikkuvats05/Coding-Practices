@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0031-next-permutation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0240-search-a-2d-matrix-ii) |
