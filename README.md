@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0038-count-and-say) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
