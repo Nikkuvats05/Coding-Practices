@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0058-length-of-last-word) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
