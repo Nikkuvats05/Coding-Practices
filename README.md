@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0162-find-peak-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikkuvats05/Coding-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
