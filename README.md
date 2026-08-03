@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
