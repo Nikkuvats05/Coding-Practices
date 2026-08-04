@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikkuvats05/Coding-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0032-longest-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
