@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
