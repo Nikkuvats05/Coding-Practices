@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1901-find-a-peak-element-ii) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
