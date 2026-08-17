@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0876-middle-of-the-linked-list) |
