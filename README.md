@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
