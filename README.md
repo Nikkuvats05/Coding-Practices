@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0704-binary-search) |
