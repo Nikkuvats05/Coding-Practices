@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/1901-find-a-peak-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikkuvats05/Coding-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikkuvats05/Coding-Practices/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
